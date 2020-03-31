@@ -1,0 +1,90 @@
+
+
+
+#boxtop
+{
+height:4em;
+display: flex;
+justify-content: flex-end;
+
+}
+.boxtop2
+{
+  margin:0.5em;
+}
+
+#boxtop2logo
+{
+margin:0.5em;
+margin-top: 0.15em;
+}
+
+#boxmiddle
+{
+  height:34em;
+  max-width: 90em;
+  justify-content: flex-end;
+}
+
+#boxbottom
+{
+  display: flex;
+  height:6em;
+  align-items: flex-end;
+  justify-content: space-between;
+ 
+  
+}
+
+#logogoogle
+{
+  display:flex;
+  max-width: fit-content;
+  margin:auto;
+  padding-top:7%;
+  
+}
+
+.formulaire
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 3%;
+
+}
+.bouton_envoi
+{
+  display: flex;
+  justify-content: center;
+  max-width: 50em;
+}
+
+.bottomtype1
+{
+  max-width: max-content;
+  margin-right: 1em;
+}
+.bottomtype2
+{display: flex;
+  justify-content: flex-end;
+  max-width: fit-content;
+  margin-right: 1em;
+
+
+}
+#boxbottom2
+{
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding-bottom: 0.5em;
+}
+.coronaimg
+{
+  height: 4em;
+}
+.corona
+{
+  margin:auto;
+  max-width: fit-content;
+}
